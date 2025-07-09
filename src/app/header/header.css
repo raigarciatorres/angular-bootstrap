@@ -3,3 +3,7 @@ h1{
     color: white;
     /*padding-left: 40px;*/
 }
+
+.navbar-light{
+    background-color: #2EC0FF;
+}
